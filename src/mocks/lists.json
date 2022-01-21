@@ -1,0 +1,18 @@
+[
+  {
+    "title": "hi",
+    "category": "Regular"
+  },
+  {
+    "title": "hello",
+    "category": "Regular"
+  },
+  {
+    "title": "Give 1000/=",
+    "category": "Owe"
+  },
+  {
+    "title": "Class at 2pm",
+    "category": "Meeting"
+  }
+]

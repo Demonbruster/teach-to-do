@@ -1,0 +1,32 @@
+.root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.container {
+  background-color: gray;
+  padding: 20px 50px;
+  border-radius: 20px;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formContainer input {
+  width: 300px;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 1.12rem;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
